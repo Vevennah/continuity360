@@ -1,0 +1,17 @@
+{
+  "name": "continuity360-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CONTINUITY360 - Business Continuity and Disaster Recovery Planner (React frontend)",
+  "scripts": {
+    "build": "node build.js",
+    "watch": "node build.js --watch"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.0"
+  }
+}
